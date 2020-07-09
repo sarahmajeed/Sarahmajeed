@@ -11,10 +11,10 @@ I want to build an open source community by contributing my best :raised_hands:
 ### :computer: Some of my main projects:
   ## REACT     
   :star: Face Detection Application
-    :arrow_forward: [a link] (https://face-recognition-app-f6ee5.web.app/) 
+    :arrow_forward: https://face-recognition-app-f6ee5.web.app/
   :star: Weather Forecast Application 
-    :arrow_forward: [a link] https://weatherforecastapp-f3371.firebaseapp.com/
+    :arrow_forward: https://weatherforecastapp-f3371.firebaseapp.com/
   ## FLUTTER 
   :star: Expense Planner Application 
-    :arrow_forward: [a link] https://github.com/Sarahmdawood/expense-planner
+    :arrow_forward: https://github.com/Sarahmdawood/expense-planner
 
