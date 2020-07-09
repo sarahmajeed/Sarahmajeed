@@ -8,12 +8,12 @@ I want to build an open source community by contributing my best :raised_hands:
 
 - 📫 How to reach me: https://www.linkedin.com/in/sarahmajeed/
 
-### :computer: Some of my main projects:
-  ## REACT     
+## :computer: Some of my main projects:
+  ### REACT     
   :star: Face Detection Application
     https://face-recognition-app-f6ee5.web.app/  
   :star: Weather Forecast Application 
     https://weatherforecastapp-f3371.firebaseapp.com/
-  ## FLUTTER 
+  ### FLUTTER 
   :star: Expense Planner Application https://github.com/Sarahmdawood/expense-planner
 
