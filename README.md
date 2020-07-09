@@ -11,7 +11,7 @@ I want to build an open source community by contributing my best :raised_hands:
 ### :computer: Some of my main projects:
     ## REACT
        :star: Face Detection Application 
-               :arrow_forward: https://face-recognition-app-f6ee5.web.app/
+               :arrow_forward: [a link](https://face-recognition-app-f6ee5.web.app/)
        :start: Weather Forecast Application
                :arrow_forward: https://weatherforecastapp-f3371.firebaseapp.com/
     ## FLUTTER
