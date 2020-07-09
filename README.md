@@ -15,6 +15,5 @@ I want to build an open source community by contributing my best :raised_hands:
   :star: Weather Forecast Application 
     https://weatherforecastapp-f3371.firebaseapp.com/
   ## FLUTTER 
-  :star: Expense Planner Application   
-    https://github.com/Sarahmdawood/expense-planner
+  :star: Expense Planner Application https://github.com/Sarahmdawood/expense-planner
 
