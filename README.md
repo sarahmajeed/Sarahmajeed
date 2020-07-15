@@ -30,8 +30,8 @@ I want to build an open source community by contributing my best :raised_hands:
         <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="300px">
       </td>
       <td width="20%" align="center">
-        <span><strong>Meet New People</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="300px">
+        <span><strong>Peace Of Mind</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/3o6fJ46kqfVubBCc0g/giphy.gif" width="300px">
       </td>
       </tbody>
 </table>
