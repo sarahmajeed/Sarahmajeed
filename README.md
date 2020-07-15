@@ -23,7 +23,7 @@ I want to build an open source community by contributing my best :raised_hands:
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>More Time Coding</strong></span><br><br><br>
-        <img height="200px" src="https://giphy.com/gifs/5zs4qY7XRuYQHE6sS5/html5" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/5zs4qY7XRuYQHE6sS5/giphy.gif" width="300px">
       </td>
       <td width="20%" align="center">
         <span><strong>Read A Lot</strong></span><br><br><br>
