@@ -17,7 +17,7 @@ I want to build an open source community by contributing my best :raised_hands:
   ### FLUTTER 
   :star: Expense Planner Application https://github.com/Sarahmdawood/expense-planner
   
-## :page_with_curl: :page_with_curl: Goals 2020:
+## :page_with_curl: Goals 2020 :page_with_curl::
 <table>
   <tbody>
     <tr valign="top">
