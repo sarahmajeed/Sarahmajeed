@@ -19,5 +19,5 @@ I want to build an open source community by contributing my best :raised_hands:
   
 ## Goals 2020  
 
-|More time coding|
-|![Alt Text](https://i.gifer.com/3bkz.gif)|
+| More time coding |
+|:![Alt Text](https://i.gifer.com/3bkz.gif)|
