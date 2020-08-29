@@ -9,15 +9,7 @@ I want to build an open source community by contributing my best :raised_hands:
 - 📫 How to reach me: https://www.linkedin.com/in/sarahmajeed/
 
 ## :computer: Some of my main projects:
-  ### REACT  
-  :star: E-Commerce Clothing Application - PERN Stack
-    http://elegant-clothing.web.app/      
-  :star: Face Detection Application - PERN Stack     
-  :star: Weather Forecast Application 
-    https://weatherforecastapp-f3371.firebaseapp.com/
-  ### FLUTTER 
-  :star: Expense Planner Application https://github.com/Sarahmdawood/expense-planner
-  
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?Sarahmdawood=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## :page_with_curl: Goals 2020 :page_with_curl::
 <table>
   <tbody>
