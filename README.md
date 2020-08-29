@@ -13,7 +13,6 @@ I want to build an open source community by contributing my best :raised_hands:
   :star: E-Commerce Clothing Application - PERN Stack
     http://elegant-clothing.web.app/      
   :star: Face Detection Application - PERN Stack
-    
   :star: Weather Forecast Application 
     https://weatherforecastapp-f3371.firebaseapp.com/
   ### FLUTTER 
