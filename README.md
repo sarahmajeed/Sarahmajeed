@@ -10,9 +10,9 @@ I want to build an open source community by contributing my best :raised_hands:
 
 ## :computer: Some of my main projects:
   ### REACT  
-  :star: E-Commerce Clothing Application - PERN Stack
+  :star: E-Commerce Clothing Application - PERN Stack    
     http://elegant-clothing.web.app/ 
-  :star: Face Detection Application - PERN Stack
+  :star: Face Detection Application - PERN Stack     
     https://face-recognition-app-f6ee5.web.app/  
   :star: Weather Forecast Application 
     https://weatherforecastapp-f3371.firebaseapp.com/
