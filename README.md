@@ -9,7 +9,7 @@ I want to build an open source community by contributing my best :raised_hands:
 - 📫 How to reach me: https://www.linkedin.com/in/sarahmajeed/
 
 ## :computer: Some of my main projects:
- [![Anurag's github stats](https://github-readme-stats.vercel.app/apiSarahmdawood=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/apiSarahmdawoodanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## :page_with_curl: Goals 2020 :page_with_curl::
 <table>
   <tbody>
