@@ -21,6 +21,10 @@ I want to build an open source community by contributing my best :raised_hands:
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs"/>
 </span>
 
+<span>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/postgresql/postgresql.png" alt="postgresql"/>
+</span>
+
 
 
 #### 🌱 I’m currently learning:
