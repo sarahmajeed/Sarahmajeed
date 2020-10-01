@@ -9,9 +9,7 @@ I want to build an open source community by contributing my best :raised_hands:
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/>
 </span>
 
-<span>
-  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure"/>
-</span>
+
 
 <span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
@@ -35,26 +33,25 @@ I want to build an open source community by contributing my best :raised_hands:
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"/>
 </span>
 
+<span>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure"/>
+</span>
+
+#### 📫 How to reach me:
+
+<a href="mailto:sarahmajeed368@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/sarahmajeed/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
+</a>
+<a href="https://twitter.com/sarahh_dev" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sarahmdawood)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahmdawood&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## :page_with_curl: Goals 2020 :page_with_curl::
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><strong>More Time Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/5zs4qY7XRuYQHE6sS5/giphy.gif" width="300px">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Grow my tech community</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="300px">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Peace Of Mind</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/3o6fJ46kqfVubBCc0g/giphy.gif" width="300px">
-      </td>
-      </tbody>
-</table>
-  
+
 
