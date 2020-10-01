@@ -30,6 +30,10 @@ I want to build an open source community by contributing my best :raised_hands:
 #### 🌱 I’m currently learning:
 
 <span>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure"/>
+</span>
+
+<span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" alt="gatsby"/>
 </span>
 
@@ -41,9 +45,7 @@ I want to build an open source community by contributing my best :raised_hands:
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"/>
 </span>
 
-<span>
-  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure"/>
-</span>
+
 
 #### 📫 How to reach me:
 
