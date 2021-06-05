@@ -15,7 +15,7 @@ Software Developer from Karachi, Pakistan. I am a full stack web developer who s
 
 :arrow_forward: I aspire to work in good teams. 
 
-:arrow_forward: My goal is help and mentor people in the right direction in the field of technology. 
+:arrow_forward: My goal is to help and mentor people in the right direction in the field of technology. 
 
 **Languages and Tools:**  
 
