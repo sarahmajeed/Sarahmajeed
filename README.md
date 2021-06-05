@@ -1,4 +1,4 @@
-## Hey! I'm Sarah
+## Hey! I'm Sarah 
 <a href="mailto:sarahmajeed368@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
@@ -9,8 +9,19 @@
   <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-I am Sarah. I am a software engineer in making. I have found my love in programming and creating effective software.
-I want to build an open source community by contributing my best :raised_hands: 
+Software Developer from Karachi, Pakistan. I am a full stack web developer who specializes in Front End development.
+
+### 📕 Latest Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+- [Grwo on LinkedIn!](https://sarahmajeed.medium.com/things-you-need-to-know-about-linkedin-if-youre-new-8869f230d16c------2)
+- [Object destructuring using ES6!](https://sarahmajeed.medium.com/object-destructuring-in-es6-e3165ee374a9------2)
+- [Array destructuring using ES6!](https://sarahmajeed.medium.com/array-destructuring-in-es6-ee80c0f516fa------2)
+
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 
 #### 🔭 I’m currently working on:
 
