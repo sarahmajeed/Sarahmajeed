@@ -61,9 +61,9 @@ I want to build an open source community by contributing my best :raised_hands:
 
 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sarahmdawood)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sarahmajeed)](https://github.com/anuraghazra/github-readme-stats)
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahmdawood&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahmajeed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
