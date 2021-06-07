@@ -9,13 +9,7 @@
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
-Software Developer from Karachi, Pakistan. I am a full stack web developer who specializes in Front End development.
-
-:arrow_forward: Currently working as a Front end developer. My main language is JavaScipt and I keep on upgrading my tech stacks.
-
-:arrow_forward: I aspire to work in good teams. 
-
-:arrow_forward: My goal is to help and mentor people in the right direction in the field of technology. 
+I am a software developer (specialized in frontend) developer from Karachi, Pakistan. I am in the constant process of upgrading my application and code quality to deliver best products to the world. I aspire to work in great teams and build an impact through whatever platform I earn. Apart from coding, community work and writing blogs, I can be found travelling or spending time outdoors catching fresh breath ✨
 
 **Languages and Tools:**  
 
