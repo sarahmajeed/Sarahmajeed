@@ -26,6 +26,7 @@ I am a software developer (specialized in frontend) from Karachi, Pakistan. I am
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Closures in Javascript - A beginner friendly Guide](https://javascript.plainenglish.io/closure-in-javascript-3f291eeb8dff?source=your_stories_page-------------------------------------)
 - [How to grow on linkedIn 📈!](https://sarahmajeed.medium.com/things-you-need-to-know-about-linkedin-if-youre-new-8869f230d16c------2)
 - [Object destructuring using ES6!](https://sarahmajeed.medium.com/object-destructuring-in-es6-e3165ee374a9------2)
 - [Array destructuring using ES6!](https://sarahmajeed.medium.com/array-destructuring-in-es6-ee80c0f516fa------2)
