@@ -9,7 +9,7 @@
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
-I am a software developer from Karachi, Pakistan. I am in the constant process of upgrading my application and code quality to deliver best products to the world. I aspire to work in great teams and build an impact through whatever platform I earn. Apart from coding, community work and writing blogs, I can be found travelling or spending time outdoors catching fresh breath ✨
+I am a Software Engineer from Karachi, Pakistan. I am in the constant process of upgrading my application and code quality to deliver best products to the world. I aspire to work in great teams and build an impact through whatever platform I earn. Apart from coding, community work and writing blogs, I can be found travelling or spending time outdoors catching fresh breath ✨
 
 **Languages and Tools:**  
 
