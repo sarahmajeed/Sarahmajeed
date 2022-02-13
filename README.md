@@ -8,6 +8,10 @@
 <a href="mailto:sarahmajeed368@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
+<a href="https://sarahmajeed.medium.com/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
 
 I am a Software Engineer from Karachi, Pakistan. I am in the constant process of upgrading my application and code quality to deliver best products to the world. I aspire to work in great teams and build an impact through whatever platform I earn. Apart from coding, community work and writing blogs, I can be found travelling or spending time outdoors catching fresh breath ✨
 
@@ -15,10 +19,12 @@ I am a Software Engineer from Karachi, Pakistan. I am in the constant process of
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sarahmajeed&show_icons=true&hide_border=true&count_private=true&theme=dracula&icon_color=fad000" alt="Sarah's GitHub Stats">
